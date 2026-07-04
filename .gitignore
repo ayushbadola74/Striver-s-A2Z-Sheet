@@ -1,0 +1,24 @@
+# Compiled files
+
+*.exe
+*.out
+*.o
+*.obj
+a.out
+
+# Debug / temp files
+
+*.log
+*.tmp
+*.swp
+
+# IDE folders
+
+.vscode/
+.idea/
+
+# OS hidden files
+
+.DS_Store
+Thumbs.db
+Desktop.ini
